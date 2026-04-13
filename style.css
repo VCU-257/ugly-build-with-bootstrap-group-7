@@ -21,3 +21,13 @@
     font-size: 1.5rem;
     -webkit-text-stroke: 1px black; 
 }
+
+.btn-primary{
+
+    --bs-btn-bg: #5C7A1F;
+    --bs-btn-border-color: #5C7A1F;
+    --bs-btn-hover-bg: #77953a;
+    --bs-btn-hover-border-color: #77953a;
+    --bs-btn-active-bg: #5C7A1F;
+
+}
