@@ -14,4 +14,4 @@ What I asked the AI: “How to create a groups page and group detail page using 
 * It helped me structure the layout using cards, lists, and grid. I learned how Bootstrap classes control layout and responsiveness.
 
 ## 5. Live Site Link
-* **Live URL:** [Insert Link Here]
+* **Live URL:**  https://vcu-257.github.io/ugly-build-with-bootstrap-group-7/
