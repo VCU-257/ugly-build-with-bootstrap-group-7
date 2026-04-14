@@ -8,7 +8,7 @@ Each page is soley for login and accont setup, therefore they only need forms
 * **Components Used:** Form Controls
 
 ## 3. Technical Challenges & Solutions
-[cite_start]*Look back at Table 4: Technical Risks. Did you build any of those risky components? How did you solve the challenge? If you didn't face those specific risks, what was the hardest part of your assigned work?*
+I am very unfamiliar with bootstrap and not being able to use CSS is strange to me
 
 ## 4. AI / LLM Usage
 No
